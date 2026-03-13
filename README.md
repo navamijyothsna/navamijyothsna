@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Navami Jyothsna
 
-<!--
-**navamijyothsna/navamijyothsna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering student interested in backend development and Python.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- C
+- Django
+- MySQL
+- HTML
+- CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Django
+- REST APIs
+- Database design
+
+## Projects
+Unit Converter Web App – Django project for unit conversions
+
+Blind Voice Academic Assistant – Voice based academic helper for visually impaired students
+
+## Contact
+LinkedIn: www.linkedin.com/in/navami-jyothsna-7570b6291
