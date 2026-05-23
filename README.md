@@ -20,5 +20,7 @@ Unit Converter Web App – Django project for unit conversions
 
 Blind Voice Academic Assistant – Voice based academic helper for visually impaired students
 
+Weather Monitoring - Django web app showing real-time weather using API integration and cloud deployment.
+
 ## Contact
 LinkedIn: www.linkedin.com/in/navami-jyothsna-7570b6291
