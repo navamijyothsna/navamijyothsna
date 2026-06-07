@@ -1,6 +1,18 @@
+
+
+
+
 # Hi, I'm Navami Jyothsna 👋
 
-Computer Science Engineering student · Backend & Python enthusiast · Open to opportunities
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=378ADD¢er=true&width=500&lines=CS+Engineering+Student;Backend+%26+Python+Enthusiast;Building+things+that+matter)](https://git.io/typing-svg)
+
+📍 Kerala, India  ·  🎓 CS Engineering  ·  💼 Open to opportunities
+
+> *"Building things that matter — from voice assistants for the visually impaired*
+> *to dashboards that help people make better decisions."*
+
+
+
 
 ---
 
@@ -12,6 +24,7 @@ Computer Science Engineering student · Backend & Python enthusiast · Open to o
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6F00?style=flat)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
 
 ---
@@ -20,22 +33,35 @@ Computer Science Engineering student · Backend & Python enthusiast · Open to o
 
 | Status | Project | Description | Stack |
 |:---:|---|---|---|
-| ✅ | **[Weather Monitoring App](https://github.com/navamijyothsna/weather-monitoring)** | Real-time weather dashboard with API integration & cloud deployment | Python, Django |
-| ✅ | **[Blind Voice Academic Assistant](https://github.com/navamijyothsna/blind-voice-assistant)** | Voice-powered academic helper for visually impaired students | Python, AI |
-| ✅ | **[Task Manager](https://github.com/navamijyothsna/Task-manager)** | Web app to create, track and manage tasks | HTML, CSS |
-| ✅ | **[She Can Foundation](https://github.com/navamijyothsna/She-Can-Foundation)** | NGO website for women's empowerment — internship project | HTML, CSS |
-| ✅ | **[Queens of Change](https://github.com/navamijyothsna/Queens-of-change)** | CSS-driven project celebrating women changemakers | CSS, HTML |
-| ✅ | **[Smart Leads Dashboard](https://github.com/navamijyothsna/Smart-Leads-Dashboard)** | Dashboard for visualizing and managing sales leads | TypeScript |
-| 🔨 | **AI Study Buddy** *(coming soon)* | LLM-powered chatbot that quizzes and summarizes notes for students | Python, Django, AI |
-
+| ✅ | **[Weather Monitoring App](https://github.com/YOUR_USERNAME/weather-monitoring)** | Real-time weather dashboard with API integration & cloud deployment | Python, Django |
+| ✅ | **[Blind Voice Academic Assistant](https://github.com/YOUR_USERNAME/blind-voice-assistant)** | Voice-powered academic helper for visually impaired students | Python, AI |
+| ✅ | **[Task Manager](https://github.com/YOUR_USERNAME/Task-manager)** | Web app to create, track and manage tasks | HTML, CSS |
+| ✅ | **[She Can Foundation](https://github.com/YOUR_USERNAME/She-Can-Foundation)** | NGO website for women's empowerment — internship project | HTML, CSS |
+| ✅ | **[Queens of Change](https://github.com/YOUR_USERNAME/Queens-of-change)** | CSS-driven project celebrating women changemakers | CSS, HTML |
+| ✅ | **[Smart Leads Dashboard](https://github.com/YOUR_USERNAME/Smart-Leads-Dashboard)** | Dashboard for visualizing and managing sales leads | TypeScript |
+| 🔨 | **AI Study Buddy** *(coming soon)* | LLM chatbot that quizzes students & summarizes notes | Python, Django, AI |
+| 📋 | **Task Manager REST API** *(planned)* | Upgrading Task Manager into a full REST API with auth & MySQL | Django REST Framework |
 
 ---
 
 ## 📚 Currently Learning
 
-- 🐍 Django (advanced patterns)
-- 🔗 REST API design
-- 🗄️ Database design & optimization
+| Topic | Details |
+|---|---|
+| 🐍 Django advanced patterns | Class-based views · Signals · Middleware |
+| 🔗 REST API design | Django REST Framework · Auth · Serializers |
+| 🗄️ Database design | Normalization · Indexing · Query optimization |
+
+---
+
+## 📊 GitHub Stats
+
+
+
+  
+  
+
+
 
 ---
 
