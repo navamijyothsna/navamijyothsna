@@ -21,14 +21,7 @@
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-
----
-
-## 📊 At a glance
-
-| 🗂 Repos | 🚀 Shipped | 🛠 Stack |
-|:---:|:---:|:---:|
-| 8 | 6 | 8 |
+![C++](https://img.shields.io/badge/C++-E34F26?style=flat&logo=html5&logoColor=white)
 
 ---
 
@@ -42,8 +35,8 @@
 | ✅ | **[She Can Foundation](https://github.com/YOUR_USERNAME/She-Can-Foundation)** | NGO website for women's empowerment — internship project | HTML, CSS |
 | ✅ | **[Queens of Change](https://github.com/YOUR_USERNAME/Queens-of-change)** | CSS-driven project celebrating women changemakers | CSS, HTML |
 | ✅ | **[Smart Leads Dashboard](https://github.com/YOUR_USERNAME/Smart-Leads-Dashboard)** | Dashboard for visualizing and managing sales leads | TypeScript |
-| 🔨 | **AI Study Buddy** *(coming soon)* | LLM chatbot that quizzes students & summarizes notes | Python, Django, AI |
-| 📋 | **Task Manager REST API** *(planned)* | Upgrading Task Manager into a full REST API with auth & MySQL | Django REST Framework |
+| 🔨 | **PrepWise** | AI Study Planning for Exams | Next.js, Groq API, Tailwind CSS , React |
+| 📋 | **Task Manager REST API**  | Upgrading Task Manager into a full REST API with auth & MySQL | Django REST Framework |
 
 ---
 
@@ -51,21 +44,13 @@
 
 | Topic | Details |
 |---|---|
-| 🐍 Django | Class-based views · Signals · Middleware |
-| 🔗 REST APIs | Django REST Framework · Auth · Serializers |
-| 🗄️ Database design | Normalization · Indexing · Query optimization |
-
----
-
-## 📊 GitHub Stats
+|  Robotics | Arduino · Raspberry Pi · ESP32 |
+|  Django | Class-based views · Signals · Middleware |
+|  REST APIs | Django REST Framework · Auth · Serializers |
+|  Database design | Normalization · Indexing · Query optimization |
 
 
-
-  
    
-  
-
-
 
 ---
 
