@@ -29,13 +29,13 @@
 
 | Status | Project | Description | Stack |
 |:---:|---|---|---|
-| ✅ | **[Weather Monitoring App](https://github.com/YOUR_USERNAME/weather-monitoring)** | Real-time weather with API integration & cloud deployment | Python, Django |
-| ✅ | **[Blind Voice Assistant](https://github.com/YOUR_USERNAME/blind-voice-assistant)** | Voice-powered academic helper for visually impaired students | Python, AI |
-| ✅ | **[Task Manager](https://github.com/YOUR_USERNAME/Task-manager)** | Web app to create, track and manage tasks | HTML, CSS |
-| ✅ | **[She Can Foundation](https://github.com/YOUR_USERNAME/She-Can-Foundation)** | NGO website for women's empowerment — internship project | HTML, CSS |
-| ✅ | **[Queens of Change](https://github.com/YOUR_USERNAME/Queens-of-change)** | CSS-driven project celebrating women changemakers | CSS, HTML |
-| ✅ | **[Smart Leads Dashboard](https://github.com/YOUR_USERNAME/Smart-Leads-Dashboard)** | Dashboard for visualizing and managing sales leads | TypeScript |
-| ✅ | **[PrepWise](https://github.com/YOUR_USERNAME/PrepWise-AI)** |  AI Study Planning for Exams | Next.js, Groq API, Tailwind CSS , React |
+| ✅ | **[Weather Monitoring App](https://github.com/navamijyothsna/weather-monitoring)** | Real-time weather with API integration & cloud deployment | Python, Django |
+| ✅ | **[Blind Voice Assistant](https://github.com/navamijyothsna/blind-voice-assistant)** | Voice-powered academic helper for visually impaired students | Python, AI |
+| ✅ | **[Task Manager](https://github.com/navamijyothsna/Task-manager)** | Web app to create, track and manage tasks | HTML, CSS |
+| ✅ | **[She Can Foundation](https://github.com/navamijyothsna/She-Can-Foundation)** | NGO website for women's empowerment — internship project | HTML, CSS |
+| ✅ | **[Queens of Change](https://github.com/navamijyothsna/Queens-of-change)** | CSS-driven project celebrating women changemakers | CSS, HTML |
+| ✅ | **[Smart Leads Dashboard](https://github.com/navamijyothsna/Smart-Leads-Dashboard)** | Dashboard for visualizing and managing sales leads | TypeScript |
+| ✅ | **[PrepWise](https://github.com/navamijyothsna/PrepWise-AI)** |  AI Study Planning for Exams | Next.js, Groq API, Tailwind CSS , React |
 | 📋 | **Task Manager REST API**  | Upgrading Task Manager into a full REST API with auth & MySQL | Django REST Framework |
 
 
