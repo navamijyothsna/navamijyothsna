@@ -35,8 +35,9 @@
 | ✅ | **[She Can Foundation](https://github.com/YOUR_USERNAME/She-Can-Foundation)** | NGO website for women's empowerment — internship project | HTML, CSS |
 | ✅ | **[Queens of Change](https://github.com/YOUR_USERNAME/Queens-of-change)** | CSS-driven project celebrating women changemakers | CSS, HTML |
 | ✅ | **[Smart Leads Dashboard](https://github.com/YOUR_USERNAME/Smart-Leads-Dashboard)** | Dashboard for visualizing and managing sales leads | TypeScript |
-| 🔨 | **PrepWise** | AI Study Planning for Exams | Next.js, Groq API, Tailwind CSS , React |
+| ✅ | **[PrepWise]((https://github.com/navamijyothsna/PrepWise-AI))** |  AI Study Planning for Exams | Next.js, Groq API, Tailwind CSS , React |
 | 📋 | **Task Manager REST API**  | Upgrading Task Manager into a full REST API with auth & MySQL | Django REST Framework |
+
 
 ---
 
