@@ -36,6 +36,7 @@
 | ✅ | **[Queens of Change](https://github.com/navamijyothsna/Queens-of-change)** | CSS-driven project celebrating women changemakers | CSS, HTML |
 | ✅ | **[Smart Leads Dashboard](https://github.com/navamijyothsna/Smart-Leads-Dashboard)** | Dashboard for visualizing and managing sales leads | TypeScript |
 | ✅ | **[PrepWise](https://github.com/navamijyothsna/PrepWise-AI)** |  AI Study Planning for Exams | Next.js, Groq API, Tailwind CSS , React |
+| ✅ | **[Smart-LED-Controller](https://github.com/navamijyothsna/Smart-LED-Controller)** | A beginner Arduino project that controls an LED using serial commands. | Arduino UNO, C++ |
 | 📋 | **Task Manager REST API**  | Upgrading Task Manager into a full REST API with auth & MySQL | Django REST Framework |
 
 
